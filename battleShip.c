@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+int i, j;
 
-int i,j;
+int main()
+{
 
-int main(){
-
-	return 0;
+  return 0;
 }
