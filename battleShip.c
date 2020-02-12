@@ -248,6 +248,6 @@ int main(void)
   setPlayerShots(2);
   showPlayerShots(2);
   checkShots(2);
-
+  system("pause");
   return 0;
 }
